@@ -1,7 +1,7 @@
 {
     "name": "rmxmedia/laravel-code-utils",
     "description": "Code utilities (analysis, coding-standard, ...) for laravel projects",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "require": {
         "php": ">=7.4"
