@@ -1,16 +1,16 @@
 {
     "name": "rmxmedia/laravel-code-utils",
     "description": "Code utilities (analysis, coding-standard, ...) for laravel projects (version 8.x or higher)",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "type": "library",
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0"
-    },
-    "require-dev": {
+        "php": "^7.3|^8.0",
         "phpstan/phpstan": "^1.2",
         "symplify/easy-coding-standard": "^10.0",
         "friendsofphp/php-cs-fixer": "^3.4"
+    },
+    "require-dev": {
     },
     "minimum-stability": "dev",
     "prefer-stable": true
