@@ -13,9 +13,9 @@
         "friendsofphp/php-cs-fixer": "^3.4"
     },
     "bin": [
-        "vendor/bin/ecs",
-        "vendor/bin/php-cs-fixer",
-        "vendor/bin/phpstan",
-        "vendor/bin/phpstan.phar"
+        "bin/ecs",
+        "bin/php-cs-fixer",
+        "bin/phpstan",
+        "bin/phpstan.phar"
     ]
 }
