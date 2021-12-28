@@ -11,5 +11,11 @@
         "phpstan/phpstan": "^1.2",
         "symplify/easy-coding-standard": "^10.0",
         "friendsofphp/php-cs-fixer": "^3.4"
-    }
+    },
+    "bin": [
+        "vendor/bin/ecs",
+        "vendor/bin/php-cs-fixer",
+        "vendor/bin/phpstan",
+        "vendor/bin/phpstan.phar"
+    ]
 }
