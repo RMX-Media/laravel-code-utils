@@ -3,5 +3,8 @@
     "description": "Code utilities (analysis, coding-standard, ...) for laravel projects",
     "type": "composer-plugin",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpstan/phpstan": "^1.2"
+    }
 }
