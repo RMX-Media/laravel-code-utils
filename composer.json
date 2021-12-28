@@ -6,6 +6,7 @@
     "require": {},
     "require-dev": {
         "phpstan/phpstan": "^1.2",
-        "symplify/easy-coding-standard": "^10.0"
+        "symplify/easy-coding-standard": "^10.0",
+        "friendsofphp/php-cs-fixer": "^3.4"
     }
 }
